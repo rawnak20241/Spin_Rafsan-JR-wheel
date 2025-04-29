@@ -57,7 +57,7 @@ h1 {
     font-size: 1.5rem;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
     margin-bottom: 1rem;
-    color: #00ff5e;
+    color: #a600ff;
 }
 
 .prize-amount-text {
@@ -380,7 +380,7 @@ canvas#confetti-canvas {
 }
 
 .contact a {
-    color: #00ff5e;
+    color: #a600ff;
     text-decoration: none;
     transition: color 0.3s ease;
     margin: 0;
@@ -388,7 +388,7 @@ canvas#confetti-canvas {
 }
 
 .contact a:hover {
-    color: #007bff;
+    color: #ffee00;
 }
 
 /* Features Container */
